@@ -67,6 +67,7 @@
               type="search"
               placeholder="Поиск..."
               aria-label="Search"
+              id="inpSearch"
             />
             <button class="btn btn-outline-success" type="submit">Поиск</button>
           </form>
@@ -198,6 +199,8 @@
               type="button"
               class="btn btn-primary btnSave"
               id="editBtnSave"
+              data-bs-toggle="modal"
+              data-bs-target="#exampleModal"
             >
               Сохранить
             </button>
@@ -206,6 +209,18 @@
       </div>
     </div>
     <!-- !EDIT MODAL FINISH -->
+    <!-- ! PAGINATION START -->
+    <nav aria-label="Page navigation example">
+      <ul class="pagination">
+        <li class="page-item">
+          <a class="page-link" id="prevBtn" href="#">Previous</a>
+        </li>
+        <li class="page-item">
+          <a class="page-link" id="nextBtn" href="#">Next</a>
+        </li>
+      </ul>
+    </nav>
+    <!-- ! PAGINATION FINISH -->
 
     <!-- !JS Bootstrap -->
     <script

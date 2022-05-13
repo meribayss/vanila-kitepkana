@@ -10,7 +10,7 @@
     {
       "bookName": "Исповедь «неполноценного» человека",
       "bookAuthor": "Осаму Дадзай",
-      "bookImage": "https://i.otzovik.com/objects/b/930000/926309.png",
+      "bookImage": "https://i.pinimg.com/236x/3e/cc/5c/3ecc5cc5c7eecc5f880b48700993a5a2.jpg",
       "bookPrice": "750",
       "id": 7
     },
@@ -22,11 +22,67 @@
       "id": 8
     },
     {
-      "bookName": "hvjh",
-      "bookAuthor": "uhigi",
-      "bookImage": "iuigi",
-      "bookPrice": "ihugi",
+      "bookName": "Властелин колец",
+      "bookAuthor": "Джон Р. Р. Толкин",
+      "bookImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFV0fG4wpIskI6nyJoVK27fV6yuzZP1vuAhA&usqp=CAU",
+      "bookPrice": "1200",
       "id": 9
+    },
+    {
+      "bookName": "Портрет Дориана Грея",
+      "bookAuthor": "Оскар Уайльд",
+      "bookImage": "https://avatars.mds.yandex.net/get-kinopoisk-image/1599028/37ccfd86-d1f2-4b79-8a77-c5fa8ef176c2/300x450",
+      "bookPrice": "800",
+      "id": 10
+    },
+    {
+      "bookName": "Война и мир",
+      "bookAuthor": "Лев Толстой",
+      "bookImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B9_%D0%9B._%D0%9D._%D0%92%D0%BE%D0%B9%D0%BD%D0%B0_%D0%B8_%D0%BC%D0%B8%D1%80%2C_%D0%A2._1._%D0%9E%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0_%D0%B8%D0%B7%D0%B4.1912%D0%B3%2C%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F.jpg/220px-%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B9_%D0%9B._%D0%9D._%D0%92%D0%BE%D0%B9%D0%BD%D0%B0_%D0%B8_%D0%BC%D0%B8%D1%80%2C_%D0%A2._1._%D0%9E%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0_%D0%B8%D0%B7%D0%B4.1912%D0%B3%2C%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F.jpg",
+      "bookPrice": "450 сом",
+      "id": 22
+    },
+    {
+      "bookName": "Белый пароход",
+      "bookAuthor": "Ч.Айтматов",
+      "bookImage": "https://akniga.org/uploads/media/topic/2019/03/22/08/preview/5442410ed254b668a15e_400x.jpg",
+      "bookPrice": "400 сом",
+      "id": 24
+    },
+    {
+      "bookName": "Преступление и наказание",
+      "bookAuthor": "Фёдор Достоевский",
+      "bookImage": "https://img4.labirint.ru/rc/71910450293282f0195a70539181b997/220x340q80/books64/631850/cover.png?1575394180",
+      "bookPrice": "950",
+      "id": 25
+    },
+    {
+      "bookName": "Коралина",
+      "bookAuthor": "Нил Гейман",
+      "bookImage": "https://img4.labirint.ru/rc/3c216cd4c3da070427053cb704f7aca4/363x561q80/books44/438848/cover.jpg?1613053523",
+      "bookPrice": "1200",
+      "id": 26
+    },
+    {
+      "bookName": "Гордость и предубеждение",
+      "bookAuthor": "Джейн Остин",
+      "bookImage": "https://static.hdrezka.ac/i/2014/12/19/daadf9669804dtp25c14h.jpg",
+      "bookPrice": "550",
+      "id": 27
+    },
+    {
+      "bookName": "1984",
+      "bookAuthor": " Джордж Оруэлл",
+      "bookImage": "https://anylang.net/sites/default/files/covers/1984_0.jpg",
+      "bookPrice": "1000",
+      "id": 28
+    },
+    {
+      "bookName": "451 градус по Фаренгейту",
+      "bookAuthor": "Рэй Брэдбери",
+      "bookImage": "https://cv6.litres.ru/pub/c/elektronnaya-kniga/cover_max1500/39507162--.jpg",
+      "bookPrice": "1200",
+      "id": 29
     }
   ]
 }
